@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Practica1</string>
+    <string name="welcome_message">\"HI %s welcome to DDA course\"</string>
+    <string name="write_your_name">Debes ingresar tu nombre</string>
+    <string name="to_greet">To greet</string>
+    <string name="your_name">Your name:</string>
+    <string name="write_here">Write here</string>
+</resources>
